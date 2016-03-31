@@ -341,7 +341,7 @@ body #header.down {
 }
 
  .primary-header {
-	background: #f38929;
+	background: #62c462;
 }
  .left-header span {
 	display: inline-block;
@@ -397,8 +397,8 @@ body #header.down {
 	display: inline-block;
 	font-size: 14px;
 	line-height: 20px;
-	color: #f38929;
-	border: 2px solid #f38929;
+	color: #62c462;
+	border: 2px solid #62c462;
 	text-transform: uppercase;
 	font-weight: 700;
 	padding: 8px 18px;
@@ -407,7 +407,7 @@ body #header.down {
 	float: right;
 }
 .quote:hover {
-	background: #f38929;
+	background: #62c462;
 	color: #fff;
 	text-decoration: none;
 }
@@ -440,7 +440,7 @@ body #header.down {
 	border-bottom: 2px solid #fff;
 }
  .menu li:hover a,  .menu li.active a {
-	border-bottom: 2px solid #f38929;
+	border-bottom: 2px solid #62c462;
 	text-decoration: none;
 }
 
@@ -468,14 +468,14 @@ body #header.down {
 	text-transform:capitalize;
 }
  .menu li .submenu li a:hover {
-	color:#f38929;
+	color:#62c462;
 }
  .menu li:hover .submenu {
 	display: block;
 }
 
 .button-wrapper {
-	background: #f38929;
+	background: #62c462;
 	text-align: right;
 	position: relative;
 	padding-bottom: 15px;
@@ -553,7 +553,7 @@ body #header.down {
 }
 
 .contact-us-container .box span a:hover {
-	color: #f38929;
+	color: #62c462;
 }
 
 .contact-us-container .box em {
@@ -579,7 +579,7 @@ body #header.down {
 }
 
 .contact-us-container .box li a:hover i {
-	color: #f38929;
+	color: #62c462;
 }
 
 .contact-us-container .contact-us {
@@ -595,8 +595,8 @@ body #header.down {
 	letter-spacing: 1px;
 }
 .contact-us-container .contact-us:hover {
-	border: 2px solid #f38929;
-	color: #f38929;
+	border: 2px solid #62c462;
+	color: #62c462;
 	text-decoration: none;
 }
 
@@ -623,7 +623,7 @@ body #header.down {
 	display: block;
 	width: 33px;
 	height: 2px;
-	background: #f38929;
+	background: #62c462;
 	margin-top: 4px;
 }
 .primary-footer p {
@@ -646,7 +646,7 @@ body #header.down {
 	color: #767381;
 }
 .primary-footer .list li a:hover {
-	color: #f38929
+	color: #62c462
 }
 #footer .input-field {
 	max-width: 293px;
@@ -703,7 +703,7 @@ body #header.down {
 .loader-item{
 	width:50px;
 	height:50px;
-	background:#f38929;
+	background:#62c462;
 	position:absolute;
 	left:0;
 	top:0;
