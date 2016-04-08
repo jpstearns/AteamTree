@@ -4,3 +4,12 @@
   margin-left:auto;
   margin-right:auto;
 }	
+
+.testimonial-container{
+	background: #2d2c32;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.testimonial-container h2{
+	color: #fff;
+}
